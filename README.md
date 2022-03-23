@@ -7,7 +7,7 @@ Utilizei estas tecnologias Html, Css e JavaScript para desenvolver o jogo da Vel
 
 ## Para rodar o projeto
 
-Visite o meu site: 
+Visite o meu site: https://maurogallotta.com/extra/game/jogo-da-velha/index.html
 
 ## Links
 Para conhecer melhor os meus trabalhos visite aqui!
